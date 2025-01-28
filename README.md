@@ -1,1 +1,1 @@
-# mini-redis
+# my-redis
